@@ -9,6 +9,8 @@ ___
 #### * Adicionar al ejercicio de citas el borrado de citas en la búsqueda, el login y el registro de usuarios
 
 ## --> PANTALLAS DE EVIDENCIA:
+## - Entrega:
+![image](https://user-images.githubusercontent.com/73366557/146844646-096ac7d1-624b-4dfa-80b6-850e7f9b8c76.png)
 
 ### - Código fuente:
 ![image](https://user-images.githubusercontent.com/73366557/146843927-f7750b38-2e38-4e07-a54e-d3370361eb38.png)
